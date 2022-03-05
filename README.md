@@ -1,6 +1,5 @@
 # Automatic-Face-Mask-Dispensor-Machine (In-Progress)
 
-
 This face mask dispensor machine totally made automatically and not worked when a person comes in front of it by wearning/not-wearing a mask. If the person is wearing a mask then the dispensor will show a greetings response to the person, else if the person is not wearing a mask the dispensor will automatically dispense a mask to the person with a message that the person wasn't wearning a mask and he must wear one to stop the spread of covid-19.
 
 Me and my team were creating this project for robu.in's creato 2.0. 
