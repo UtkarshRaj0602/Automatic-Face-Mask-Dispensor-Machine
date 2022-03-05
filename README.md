@@ -4,6 +4,8 @@ This face mask dispensor machine totally made automatically and not worked when 
 
 Me and my team were creating this project for robu.in's creato 2.0. 
 
+My major role: I was given the task to make the full code of the automatic face amsk dispensor machine using opencv and python. Also i was responsible for integrating the raspberry pi and the code and the whole functing of the dispensor machine. 
+
 
 Unqiue Selling Point: 
 
