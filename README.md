@@ -4,8 +4,6 @@ This face mask dispensor machine totally made automatically and not worked when 
 
 Me and my team were creating this project for robu.in's creato 2.0. 
 
-My major role: I was given the task to make the full code of the automatic face amsk dispensor machine using opencv and python. Also i was responsible for integrating the raspberry pi and the code and the whole functing of the dispensor machine. 
-
 
 Unqiue Selling Point: 
 
@@ -36,6 +34,9 @@ Learning Outcomes:
 1. Learned about OpenCV its various uses, libraries and many more.
 2. Learned about python and its various machine learning oriented libraries such as keras, pandas, tensorflow, etc. 
 3. Leanred about integration protocols between rapberry pi and opencv. 
+
+
+My major role: I was given the task to make the full code of the automatic face amsk dispensor machine using opencv and python. Also i was responsible for integrating the raspberry pi and the code and the whole functing of the dispensor machine. 
 
 
 
